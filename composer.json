@@ -1,0 +1,19 @@
+{
+    "name": "panwenbin/fill-model",
+    "description": "Fill model private attributes from array data",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Panwenbin\\FillModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "panwenbin",
+            "email": "panwenbin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
